@@ -8,3 +8,4 @@ If you feel like contributing, please do so! Fork the project and open a pull re
 
 # List of guides
 - [The Go programming language](go/README.md)
+  - [Go Fiber](go-fiber/README.md)
