@@ -7,5 +7,7 @@ This guide will not only cover a style guide for a programming language, but wil
 If you feel like contributing, please do so! Fork the project and open a pull request.
 
 # List of guides
-- [The Go programming language](go/README.md)
-  - [Go Fiber](go-fiber/README.md)
+- [The Go programming language](go/core/README.md)
+  - [Project Structure](go/project-structure/README.md)
+  - [Go Fiber](go/fiber/README.md)
+  - [Temporal](go/temporal/README.md)
