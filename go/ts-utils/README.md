@@ -8,3 +8,9 @@ Internal utility library documentation for `gitea.tagsamurai.local/BETS-V2/ts-ut
 - [Update Builder](update-builder.md)
 - [Delete Builder](delete-builder.md)
 - [WHERE Clauses and SQL Operators](where-and-operators.md)
+
+## Services (`service`, `provider`)
+- [Service Manager](service-manager.md)
+- [PostgreSQL Service](postgresql-service.md)
+- [Redis Service](redis-service.md)
+- [DB Provider](db-provider.md)
